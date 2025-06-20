@@ -11,7 +11,7 @@ body {
   overflow-x: hidden;
 
   font-family: "Inter", sans-serif;
-  font-optical-sizing: auto;
+  font-optical-sizing: auto;  
 }
 
 @custom-variant dark (&:is(.dark *));
